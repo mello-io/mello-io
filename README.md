@@ -28,7 +28,7 @@ industry_background: Public Sector & Higher Ed. Cyber Defence
 
 education:
   [
-    "Self taugh Red-Teamer with a focus on Cyber Defence",
+    "Self taught Red-Teamer with a focus on Cyber Defence",
     "🎓 Master's in Digital Forensics & Cyber Security",
     "🎓 Bachelor's in IT Infrastructure Management & Cyber Security",
   ]
