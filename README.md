@@ -20,7 +20,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Small Security File About Me </h2>
 
 ```yaml
-type: unclassified
+type: public_trust [declassified]
 name: Derick Dmello
 located_in: Albany, New York
 current_job: Security Analyst (Former NY State Gov)
