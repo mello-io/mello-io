@@ -87,6 +87,14 @@ currently_learning: ["github, security engineering automation and log aggregatin
 
 <br>
 
+<h2> ⚔️ &nbsp; Training & Range Practise </h2>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/derickd.png" alt="Your Image Badge" />
+
+
+<br>
+<br>
+
 <h2> 🛡️ &nbsp;Security Credentials </h2>
 
 <img src="https://github.com/user-attachments/assets/23a7c9bf-0176-41bb-891f-2cb338b93b6a" height=100 alt="CEHM" />
