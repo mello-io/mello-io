@@ -1,231 +1,120 @@
-# Portfolio Template
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20There%20!!&height=200&section=header"/>
+</p>
 
-### A beautiful minimal and accessible portfolio template for Developers ✨.
+<h1 align="center">
+  Let's Connect and have a Coffee Chat!☕💬
+</h1>
 
-To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
+<p align="center">
+<a href="https://www.linkedin.com/in/dmelloderick/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+  
+</p>
 
-![Portfolio Gif](/images/portfolio.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" height="180" />
+</p>
 
-## Want to learn How to create a template like this ?
+<h2> 👨🏻‍💻 &nbsp;A Small Security File About Me </h2>
 
-You can watch [this video series](https://www.youtube.com/watch?v=1nchVfpMGSg&list=PLwJBGAxcH7GzdavgKlCACbESzr-40lw3L) on my youtube channel where I re-create this from scratch. 
+```yaml
+type: public_trust [declassified]
+name: Derick Dmello
+located_in: Albany, New York
+current_job: Security Analyst (Former NY State Gov)
+industry_background: Public Sector & Higher Ed. Cyber Defence
 
+education:
+  [
+    "Self taught Red-Teamer with a focus on Cyber Defence",
+    "🎓 Master's in Digital Forensics & Cyber Security",
+    "🎓 Bachelor's in IT Infrastructure Management & Cyber Security",
+  ]
 
+fields_of_interests:
+  [
+    "Security Operations",
+    "Incident Response",
+    "Governanace, Risk & Compliance",
+    "Digital Forensics",
+    "Cyber Threat Intelligence",
+    "Open Source Intelligence",
+  ]
 
-## Features
+technical_background:
+  [
+    "Threat Detection & Analysis"
+    "Incident Response & Log Correlation"
+    "SOC Operations (Tier 1-3)",
+    "Security Compliance (NIST, CIS, PCI-DSS, ISO27001)",
+    "Vulnerability Scanning & Analysis",
+    "Sandboxing & Virtualization",
+  ]
+  
+currently_learning: ["github, security engineering automation and log aggregating automation"]
 
-- Clean, Simple and Modern UI Design.
-- Uses No CSS or JavaScript Frameworks or libraries as dependencies.
-- Built with only HTML, CSS and a bit of JavaScript 🔨.
-- Well Organized Documentation.
-- Keyboard support.
-- Fully Responsive.
-- Loads fast ⚡.
-
-## Lighthouse Report
-
-![Lighthouse Report](/images/lighthouse-report.png)
-
-### Contributions are warmly welcomed ❤️.
-
-## Getting Started 🚀
-
-You'll need [Git](https://git-scm.com) to be installed on your computer. 
-```
-# Clone this repository
-$ git clone https://github.com/nisarhassan12/portfolio-template
-```
-
-If you don't have Git installed or you don't like using the terminal then you can download the [zip](https://github.com/nisarhassan12/portfolio-template/archive/master.zip) and extract that and open the extracted folder in the code editor of your your choice.
-
-## Editing the Template 🔨
-
-Go to `index.html` and fill your information. 
-
-### Header
-
-In all of the places where you're supposed to fill your information you'll find HTML comments. As shown below just replace what is already in the opening and closing tags below the comment with your information.
-
-```html
-<div class="header__text-box row">
-    <div class="header__text">
-        <h1 class="heading-primary">
-        <!-- Replace the following name with your name -->
-        <span>Syed Ali Hussnain</span>
-        </h1>
-        <!-- Put a small paragraph about yourself -->
-        <p>A Web Developer based in Lahore, Pakistan.</p>
-        <a href="#contact" class="btn btn--pink">Get in touch</a>
-    </div>
-</div>
+2025 Goals: ["Create impactful and live SIEM, IR and automation based projects and learn at least 5 new technologies."]
 ```
 
-### Work Section
 
-Each div with class `work__box` represents a project, replace the contents of the all the tags with the information of your projects.
+<h2> 🧰 &nbsp;Tech Stack & ToolKit </h2>
 
-```html
-<div class="work__box">
-    <div class="work__text">
-    <h3>Portfolio Template</h3>
-    <p>
-        A free Open Source Portfolio for anyone to use for free.
-    </p>
-    <ul class="work__list">
-        <li>HTML</li>
-        <li>SCSS</li>
-        <li>JavaScript</li>
-        <li>Parcel</li>
-    </ul>
+<p>
+  <img src="https://img.shields.io/badge/Linux-Security-blue?logo=linux&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Python-Automation-yellow?logo=python&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Bash-Scripting-black?logo=gnubash&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?logo=wireshark&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Testing-orange?logo=burpsuite&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Checkpoint-Monitoring-red?logo=checkpoint&logoColor=white" />
 
-    <div class="work__links">
-        <a href="#" class="link__text">
-        Visit Site <span>&rarr;</span>
-        </a> 
-        <a href="https://github.com/nisarhassan12/portfolio" target="_blank">
-        <img src="./images/github.svg" class="work__code" alt="GitHub">
-        </a>
-    </div>
-    </div>
-    <div class="work__image-box">
-        <img
-            src="./images/project-1.png"
-            class="work__image"
-            alt="Project 1"
-        />
-    </div>
-</div>
-```
+  <img src="https://img.shields.io/badge/Crowdstrike-Monitoring-red?logo=crowdstrike&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Splunk-SIEM-black?logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kibana-SIEM-black?logo=kibana&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/NIST%20800--53-Compliance-green" />
+  <img src="https://img.shields.io/badge/NIST%20800--37-Compliance-green" />
+  <img src="https://img.shields.io/badge/PCI%20DSS-Compliance-green" />
+  <img src="https://img.shields.io/badge/ISO%2027001:2022-Compliance-green" />
+</p>
 
-For changing the screenshot:
-- first place the image in `images/` folder and then in HTML replace the name in `src` with the name of your image.
+<br>
 
-- Recommended size for project image (1366 x 767px) also make sure the size of all  project images is the same.
+<h2> ⚔️ &nbsp; Training & Range Practise </h2>
 
-```html
-<img
-    src="./images/name-of-your-image.png"
-    class="work__image"
-    alt="Project 1"
-/>
-```
+<img src="https://tryhackme-badges.s3.amazonaws.com/derickd.png" alt="Your Image Badge" />
 
-### Clients Section
 
-- Place the logos of the clients and companies that you have worked with in `images/` directory and then replace the name in `src` with the name of your logos accordingly.
+<br>
+<br>
 
-- Make sure that you don't have whitespace on either side of the logos.
+<h2> 🛡️ &nbsp;Security Credentials </h2>
 
-```html
-<img
-    src="./images/your-logo.png"
-    class="client__logo"
-    alt="Your Logo"
-/>
-```
+<img src="https://github.com/user-attachments/assets/23a7c9bf-0176-41bb-891f-2cb338b93b6a" height=100 alt="CEHM" />
+<img src="https://github.com/user-attachments/assets/024fc5c5-5b93-4ba4-ad0e-5c4e0e3a3e6a" height=100 alt="CEHP" />
+<img src="https://github.com/user-attachments/assets/00f5e2ce-ecf8-49f3-8c8b-51fb7d00e7bd" height=100 alt="CEH" />
+<img src="https://github.com/user-attachments/assets/7a4a2ba1-21f3-42cd-a18d-78f22b11eb6c" height=100 alt="Sec+"/>
+<img src="https://github.com/user-attachments/assets/a2a90382-ae0d-4881-8c8e-92475f932ea3" height=100 alt="CC" />
+<img src="https://github.com/user-attachments/assets/f948989b-cfcd-4fb5-ab10-ec8704d47371" height=100 alt="RHCSA"/>
+<img src="https://github.com/user-attachments/assets/1aded0dc-75d3-4eb4-8cda-4bda6bb992fb" height=100 alt="Cisco CybOps"/>
 
-### About Section
 
-- Replace the contents in the below paragraph with information about yourself.
-- Place a nice photo of yourself in the `images/` directory and then change the name in the src with your image name.
+<!-- Hit counter ; under construction [![HitCount](https://hits.dwyl.com/mello-io/mello-io.svg?style=flat-square)](http://hits.dwyl.com/mello-io/mello-io) -->
+<!-- Credits to https://dev.to/thepiyushmalhotra/how-to-design-an-attractive-github-profile-readme-1ppg? Thanks!  -->
 
-```html
-<section class="about" id="about">
-    <div class="row">
-        <h2>About Me</h2>
-        <div class="about__content">
-            <div class="about__text">
-                <!-- Replace the below paragraph with info about yourself -->
-                <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos id
-                nostrum illo harum blanditiis, tenetur eum suscipit cupiditate
-                in vel, ex quam quidem quos mollitia labore aut sunt eius
-                ratione molestiae fuga veniam facere similique voluptate.
-                </p>
-                <!-- Provide a link to your resume -->
-                <a href="#" class="btn">My Resume</a>
-            </div>
+---
 
-            <div class="about__photo-container">
-                <!-- Add a nice photo of yourself -->
-                <img
-                class="about__photo"
-                src="./images/syed-ali-hussnain.jpg"
-                alt=""
-                />
-            </div>
-        </div>
-    </div>
-</section>
-```
+_“Security is not a product, but a process.” – Bruce Schneier_
 
-### Contact Section
+---
 
-- Modify the paragraph to your likings.
-- Replace the email with yours in the `href` anchor property and the text also.
-
-```html
-<section class="contact" id="contact">
-      <div class="row">
-        <h2>Get in Touch</h2>
-        <div class="contact__info">
-          <p>
-            Are you looking for a fast-performing and user-friendly website to
-            represent your product or business? or looking for any kind of
-            consultation? or want to ask questions? or have some advice for me
-            or just want to say "Hi 👋" in any case feel free to Let me know. I
-            will do my best to respond back. 😊 The quickest way to reach out to
-            me is via an email.
-          </p>
-          <!-- Replace the email with yours -->
-          <a href="mailto:you@example.com" class="btn">you@example.com</a>
-        </div>
-      </div>
-</section>
-```
-
-### Footer
-
-- Replace the `href` attribute values to your profile URLs for all anchors.
-- Remove the div with class `footer__github-buttons`.
-
-```html
-<footer role="contentinfo" class="footer">
-    <div class="row">
-        <!-- Update the links to point to your accounts -->
-        <ul class="footer__social-links">
-            <li class="footer__social-link-item">
-                <a href="https://twitter.com/nisarhassan12/">
-                    <img src="./images/twitter.svg" class="footer__social-image" alt="Twitter">
-                </a>
-            </li>
-            <li class="footer__social-link-item">
-                <a href="https://github.com/nisarhassan12/">
-                    <img src="./images/github.svg" class="footer__social-image" alt="Github">
-                </a>
-            </li>
-            <li class="footer__social-link-item">
-                <a href="https://codepen.io/nisar_hassan">
-                    <img src="./images/codepen.svg" class="footer__social-image" alt="Codepen">
-                </a>
-            </li>
-            <li class="footer__social-link-item">
-                <a href=https://www.linkedin.com/in/nisar-hassan-naqvi-413466199/">
-                    <img src="./images/linkedin.svg" class="footer__social-image" alt="Linkedin">
-                </a>
-            </li>
-        </ul>
-
-        <!-- If you give me some credit by keeping the below paragraph, will be huge for me 😊 Thanks. -->
-        <p>
-          &copy; 2020 - Template designed & developed by <a href="https://nisar.dev">Nisar</a>.
-        </p>
-        <div class="footer__github-buttons">
-          <iframe
-            src="https://ghbtns.com/github-btn.html?user=nisarhassan12&repo=portfolio-template&type=watch&count=true" 
-            frameborder="0" scrolling="0" width="170" height="20" title="Watch Portfolio Template on GitHub">
-          </iframe>
-        </div>
-    </div>
-</footer>
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
+</p>
